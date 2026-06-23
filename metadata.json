@@ -1,0 +1,6 @@
+{
+  "name": "Digital Product Business Advisor",
+  "description": "An interactive step-by-step advisor for validating, building, and launching digital marketing eBooks on Amazon KDP with live AI prompt tailoring and custom marketing strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
